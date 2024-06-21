@@ -17,15 +17,15 @@ require (
 	github.com/go-playground/pkg/v5 v5.22.0
 	github.com/go-playground/universal-translator v0.18.1
 	github.com/go-playground/validator/v10 v10.16.0
-	github.com/google/uuid v1.5.0
+	github.com/google/uuid v1.6.0
 	github.com/hibiken/asynq v0.24.1
 	github.com/jellydator/ttlcache/v3 v3.2.0
 	github.com/json-iterator/go v1.1.12
 	github.com/k-sone/critbitgo v1.4.0
 	github.com/khulnasoft-lab/kengine_utils v0.0.0-20240428012650-50b1cce30709
-	github.com/klauspost/compress v1.17.4
+	github.com/klauspost/compress v1.17.6
 	github.com/lestrrat-go/jwx/v2 v2.0.21
-	github.com/minio/minio-go/v7 v7.0.66
+	github.com/minio/minio-go/v7 v7.0.72
 	github.com/neo4j/neo4j-go-driver/v5 v5.17.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.18.0
